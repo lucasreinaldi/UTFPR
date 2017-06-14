@@ -1,0 +1,5 @@
+Codeblocks (C++);
+NetBeans (Java);
+ASTAH (UML);
+Postgres (SQL);
+MySQL (SQL);
